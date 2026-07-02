@@ -1,0 +1,121 @@
+sources:
+  - id: openai_news
+    name: OpenAI News
+    category_hint: ai
+    type: rss_or_html
+    url: https://openai.com/news/
+    rss_url: https://openai.com/news/rss.xml
+    priority: P0
+    enabled: true
+    max_results: 20
+
+  - id: anthropic_news
+    name: Anthropic News
+    category_hint: ai
+    type: html_list
+    url: https://www.anthropic.com/news
+    priority: P0
+    enabled: true
+    max_results: 20
+    include_url_contains:
+      - /news/
+      - /research/
+      - /policy/
+    exclude_title_contains:
+      - skip to
+      - press@
+      - support
+
+  - id: deepmind_blog
+    name: Google DeepMind Blog
+    category_hint: ai
+    type: html_list
+    url: https://deepmind.google/blog/
+    priority: P0
+    enabled: true
+    max_results: 20
+    include_url_contains:
+      - /blog/
+
+  - id: arxiv_ai
+    name: arXiv cs.AI
+    category_hint: ai
+    type: rss
+    url: https://rss.arxiv.org/rss/cs.AI
+    rss_url: https://rss.arxiv.org/rss/cs.AI
+    priority: P0
+    enabled: false
+    max_results: 20
+
+  - id: nhc
+    name: 国家卫健委
+    category_hint: health
+    type: html_list
+    url: https://www.nhc.gov.cn/xcs/yqfkdt/list_gzbd.shtml
+    priority: P0
+    enabled: true
+    max_results: 20
+
+  - id: nmpa
+    name: 国家药监局
+    category_hint: health
+    type: html_list
+    url: https://www.nmpa.gov.cn/yaowen/index.html
+    priority: P0
+    enabled: true
+    max_results: 20
+
+  - id: nhsa
+    name: 国家医保局
+    category_hint: health
+    type: html_list
+    url: https://www.nhsa.gov.cn/col/col14/index.html
+    priority: P0
+    enabled: true
+    max_results: 20
+    include_url_contains:
+      - /art/
+
+  - id: waic
+    name: WAIC 世界人工智能大会
+    category_hint: conference
+    type: html_list
+    url: https://www.worldaic.com.cn/
+    priority: P0
+    enabled: true
+    max_results: 20
+    exclude_title_contains:
+      - ICP
+      - 备案
+
+  - id: infoq_conferences
+    name: InfoQ 技术大会
+    category_hint: conference
+    type: html_list
+    url: https://con.infoq.cn/
+    priority: P0
+    enabled: true
+    max_results: 20
+    include_url_contains:
+      - /schedule
+      - /presentation
+      - /con/
+
+  - id: medlive_meetings
+    name: 医脉通会议
+    category_hint: conference
+    type: html_list
+    url: https://meetings.medlive.cn/browse/0/1/1/
+    priority: P0
+    enabled: true
+    max_results: 20
+
+  - id: x_ai_health
+    name: X AI/Health Recent Search
+    category_hint: other
+    type: x_recent_search
+    url: "(AI OR artificial intelligence OR 大模型) (health OR 医疗 OR 医院 OR 药物) -is:retweet lang:zh"
+    query: "(AI OR artificial intelligence OR 大模型) (health OR 医疗 OR 医院 OR 药物) -is:retweet lang:zh"
+    priority: P2
+    enabled: false
+    max_results: 25

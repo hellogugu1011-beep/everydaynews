@@ -186,20 +186,37 @@
 推荐第一版分两档：
 
 - `SCRIPT_ONLY`：默认模式，不消耗模型 token，稳定生成日报。
-- `AI_ENHANCED`：可选模式，只对筛选后的候选内容调用模型，生成摘要、标签、日报总述。
+- `AI_ENHANCED`：可选模式，默认使用 DeepSeek API，只对筛选后的候选内容调用模型，生成摘要、标签、日报总述。
 
 ### 6.2 Token 预估
 
-以下只估算运行脚本时调用模型的 token，不包括开发过程中的对话 token。
+以下只估算运行脚本时调用模型的 token，不包括开发过程中的对话 token。DeepSeek 官方价格口径中，`deepseek-chat` 为输入 cache miss ¥2 / 1M tokens、输出 ¥8 / 1M tokens；美元口径为输入 cache miss $0.27 / 1M tokens、输出 $1.10 / 1M tokens。若发生 cache hit 会更低。
 
-| 模式 | 假设 | 预计每日 token |
-|---|---|---|
-| 纯脚本模式 | 不调用模型 | 0 |
-| 轻量模型模式 | 60 到 80 条候选；每条只给标题、来源、摘要/片段；再生成日报总述 | 输入约 5 万到 7 万，输出约 6 千到 1 万 |
-| 标准模型模式 | 150 到 200 条候选；每条做分类、摘要、标签；再做分组总述 | 输入约 15 万到 22 万，输出约 2 万到 3 万 |
-| 重模型模式 | 抓取并压缩正文，100 篇左右，每篇 2000 到 4000 token | 输入约 25 万到 45 万，输出约 2 万到 5 万 |
+| 模式 | 假设 | 预计每日 token | deepseek-chat 约成本 |
+|---|---|---:|---:|
+| 纯脚本模式 | 不调用模型 | 0 | ¥0 |
+| 轻量模型模式 | 60 到 80 条候选；每条只给标题、来源、摘要/片段；再生成日报总述 | 输入 5万-7万，输出 6千-1万 | 约 ¥0.15-¥0.22/天 |
+| 标准模型模式 | 150 到 200 条候选；每条做分类、摘要、标签；再做分组总述 | 输入 15万-22万，输出 2万-3万 | 约 ¥0.46-¥0.68/天 |
+| 重模型模式 | 抓取并压缩正文，100 篇左右，每篇 2000 到 4000 token | 输入 25万-45万，输出 2万-5万 | 约 ¥0.66-¥1.30/天 |
 
-我的建议：首版先用 `SCRIPT_ONLY` 跑通；后续开启 `AI_ENHANCED` 时，只把规则筛出的 50 到 80 条内容送模型。这样每天 token 可控在约 6 万到 8 万总量级。
+我的建议：首版先用 `SCRIPT_ONLY` 跑通；后续开启 `AI_ENHANCED` 时，只把规则筛出的 50 到 80 条内容送 DeepSeek。这样每天 token 可控在约 6 万到 8 万总量级，月成本大约 ¥5-¥7。
+
+### 6.3 DeepSeek API 接入
+
+DeepSeek API 兼容 OpenAI Chat Completions 风格。本项目使用：
+
+```text
+POST https://api.deepseek.com/chat/completions
+```
+
+本地运行：
+
+```powershell
+$env:DEEPSEEK_API_KEY="你的 DeepSeek API Key"
+python -m everydaynews.run_daily --output-dir output --enhance
+```
+
+GitHub Actions 中，把 `DEEPSEEK_API_KEY` 放进仓库 Secrets。默认 workflow 不加 `--enhance`，所以不会自动消耗模型 token。
 
 ## 7. 技术方案
 

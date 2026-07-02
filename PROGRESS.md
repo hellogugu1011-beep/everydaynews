@@ -42,5 +42,25 @@
 
 ## 下一步
 
-- 等待咕咕评审 `docs/requirements-technical-review.md`。
-- 评审通过后，生成实现计划，再写代码。
+- 配置 GitHub Secrets：`X_BEARER_TOKEN` 和可选 `DEEPSEEK_API_KEY`。
+- 根据实际抓取质量调整 `config/sources.yaml`。
+- 若需要模型增强，运行时加 `--enhance` 并观察 token/费用。
+
+## 2026-07-02 实现进展
+
+- 新增 Python 包 `everydaynews`。
+- 新增核心模块：
+  - `models.py`：Source、NewsItem、SourceStatus。
+  - `classifier.py`：关键词分类与 `ai_health` 交叉标签。
+  - `dedupe.py`：URL 和标题去重。
+  - `render.py`：Markdown/HTML/JSON 输出。
+  - `run_daily.py`：CLI 入口。
+- 新增采集器：
+  - RSS。
+  - HTML 列表页。
+  - static 测试源。
+  - X Recent Search，默认关闭。
+- 新增可选增强：
+  - DeepSeek Chat Completions 调用，默认关闭。
+- 新增 GitHub Actions：`.github/workflows/daily.yml`。
+- 新增测试 7 个，覆盖分类、去重、渲染、X API 解析、DeepSeek prompt、CLI 输出。

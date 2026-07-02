@@ -64,3 +64,11 @@
   - DeepSeek Chat Completions 调用，默认关闭。
 - 新增 GitHub Actions：`.github/workflows/daily.yml`。
 - 新增测试 7 个，覆盖分类、去重、渲染、X API 解析、DeepSeek prompt、CLI 输出。
+
+### 决策：报告主体中文化依赖 DeepSeek 增强
+
+**背景**：试跑报告中的 OpenAI、Anthropic、DeepMind 等来源保留了英文原文标题和摘要，不适合日常中文阅读。  
+**选项**：普通脚本硬翻译、只输出英文原文、使用 DeepSeek 将标题和摘要中文化后写回主报告。  
+**决定**：使用 DeepSeek 增强时直接把中文标题、中文摘要和标签写回主 Markdown/HTML/JSON 报告。  
+**原因**：普通规则无法可靠翻译英文标题；模型增强最适合做中文改写和摘要。  
+**影响**：没有 `DEEPSEEK_API_KEY` 时报告仍保留原文；配置 key 后 GitHub Actions 默认启用中文增强。

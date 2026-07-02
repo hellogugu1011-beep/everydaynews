@@ -21,7 +21,7 @@ jobs:
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-        run: python -m everydaynews.run_daily --days 2 --output-dir output --max-items 200
+        run: python -m everydaynews.run_daily --days 2 --output-dir output --max-items 200 --enhance
       - name: Commit report
         run: |
           git config user.name "github-actions[bot]"

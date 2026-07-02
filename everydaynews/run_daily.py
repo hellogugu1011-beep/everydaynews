@@ -12,7 +12,7 @@ from .collectors.static import collect_static
 from .collectors.x_api import collect_x_recent_search
 from .config import load_sources
 from .dedupe import dedupe_items
-from .enhancers.deepseek import call_deepseek_digest
+from .enhancers.deepseek import apply_digest_to_items, call_deepseek_digest, parse_digest_response
 from .models import NewsItem, Source, SourceStatus
 from .render import write_report_files
 
@@ -56,6 +56,12 @@ def run_daily(
         all_items.extend(items)
 
     items = classify_items(dedupe_items(all_items))[:max_items]
+
+    if enhance:
+        digest = call_deepseek_digest([item.to_dict() for item in items])
+        if digest:
+            items = classify_items(apply_digest_to_items(items, parse_digest_response(digest)))
+
     paths = write_report_files(items, report_date, output_dir, statuses)
 
     data_dir = output_dir.parent / "data"
@@ -65,12 +71,6 @@ def run_daily(
         encoding="utf-8",
     )
 
-    if enhance:
-        digest = call_deepseek_digest([item.to_dict() for item in items])
-        if digest:
-            deepseek_path = output_dir / f"{report_date}.deepseek.txt"
-            deepseek_path.write_text(digest, encoding="utf-8")
-            paths["deepseek"] = deepseek_path
     return paths
 
 

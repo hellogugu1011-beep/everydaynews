@@ -36,6 +36,15 @@ python -m everydaynews.run_daily --days 2 --output-dir output --max-items 200
 - `output/YYYY-MM-DD.json`
 - `data/source-status.json`
 
+默认采集会保留原文标题。要让报告主体变成中文标题和中文摘要，请配置 `DEEPSEEK_API_KEY` 后运行：
+
+```powershell
+$env:DEEPSEEK_API_KEY="你的 DeepSeek API Key"
+python -m everydaynews.run_daily --days 2 --output-dir output --max-items 80 --enhance
+```
+
+GitHub Actions 已默认加 `--enhance`；如果仓库没有配置 `DEEPSEEK_API_KEY`，脚本会自动跳过模型增强，不产生 token 费用。
+
 ## 可选环境变量
 
 - `X_BEARER_TOKEN`：开启 X Recent Search 时需要。

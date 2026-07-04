@@ -1,0 +1,560 @@
+[
+  {
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 30 Jun 2026 09:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831386+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Inside Genebench-Pro",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831417+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Introducing GeneBench-Pro",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831428+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831437+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831445+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Sun, 28 Jun 2026 17:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831473+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Fri, 26 Jun 2026 10:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831481+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "How agents are transforming work",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Thu, 25 Jun 2026 02:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831494+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Wed, 24 Jun 2026 06:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831503+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 23 Jun 2026 13:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831512+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 23 Jun 2026 17:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831520+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "How Omio is building the future of conversational travel",
+    "url": "https://openai.com/index/omio",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831527+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "url": "https://openai.com/index/patch-the-planet",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831534+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831541+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Codex-maxxing for long-running work",
+    "url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Mon, 22 Jun 2026 00:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831548+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Sun, 21 Jun 2026 23:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831555+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Thu, 18 Jun 2026 17:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831561+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Thu, 18 Jun 2026 11:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831569+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Thu, 18 Jun 2026 08:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831576+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Wed, 17 Jun 2026 10:00:00 GMT",
+    "discovered_at": "2026-07-04T01:44:19.831583+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Redeploying Fable 5 Announcements Jun 30, 2026 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, ",
+    "url": "https://www.anthropic.com/news/redeploying-fable-5",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:25.966348+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:25.966395+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Announcements Jun 30, 2026 Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and p",
+    "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:25.966432+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Product Jun 23, 2026 Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.",
+    "url": "https://www.anthropic.com/news/introducing-claude-tag",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:25.966486+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Jul 2, 2026 Announcements More details on Fable 5’s cyber safeguards and our jailbreak framework",
+    "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:25.966549+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Jun 17, 2026 Announcements Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+    "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:25.966648+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Jun 12, 2026 Announcements Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+    "url": "https://www.anthropic.com/news/fable-mythos-access",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:25.966680+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Jun 12, 2026 Announcements Results from the first Anthropic Public Record",
+    "url": "https://www.anthropic.com/news/anthropic-public-record",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:25.966710+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Jun 12, 2026 Announcements TCS and Anthropic partner to bring Claude to regulated industries",
+    "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:25.966739+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Jun 11, 2026 Announcements DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+    "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:25.966769+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Responsible Scaling Policy",
+    "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:25.967708+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "SIMA 2 An agent that plays, reasons, and learns with you",
+    "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+    "source_id": "deepmind_blog",
+    "source_name": "Google DeepMind Blog",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:26.393204+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "AlphaEarth Map our planet in unprecedented detail",
+    "url": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/",
+    "source_id": "deepmind_blog",
+    "source_name": "Google DeepMind Blog",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:26.393370+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "AlphaEvolve Design advanced algorithms for math and applications in computing",
+    "url": "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+    "source_id": "deepmind_blog",
+    "source_name": "Google DeepMind Blog",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:26.393404+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "News Discover our latest AI breakthroughs, projects, and updates",
+    "url": "https://deepmind.google/blog/",
+    "source_id": "deepmind_blog",
+    "source_name": "Google DeepMind Blog",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:26.393537+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "AlphaGenome",
+    "url": "https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/",
+    "source_id": "deepmind_blog",
+    "source_name": "Google DeepMind Blog",
+    "published_at": null,
+    "discovered_at": "2026-07-04T01:44:26.394948+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  }
+]

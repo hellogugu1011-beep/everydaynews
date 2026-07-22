@@ -4,62 +4,62 @@
     "ok": true,
     "count": 20,
     "message": "ok",
-    "checked_at": "2026-07-21T01:22:02.052401+00:00"
+    "checked_at": "2026-07-22T01:20:27.035059+00:00"
   },
   {
     "source_id": "anthropic_news",
     "ok": true,
     "count": 13,
     "message": "ok",
-    "checked_at": "2026-07-21T01:22:09.685971+00:00"
+    "checked_at": "2026-07-22T01:20:30.779205+00:00"
   },
   {
     "source_id": "deepmind_blog",
     "ok": true,
     "count": 5,
     "message": "ok",
-    "checked_at": "2026-07-21T01:22:10.342216+00:00"
+    "checked_at": "2026-07-22T01:20:31.310878+00:00"
   },
   {
     "source_id": "nhc",
     "ok": false,
     "count": 0,
     "message": "HTTP Error 412: Precondition Failed",
-    "checked_at": "2026-07-21T01:22:12.091072+00:00"
+    "checked_at": "2026-07-22T01:20:32.606291+00:00"
   },
   {
     "source_id": "nmpa",
     "ok": false,
     "count": 0,
     "message": "HTTP Error 412: Precondition Failed",
-    "checked_at": "2026-07-21T01:22:12.942845+00:00"
+    "checked_at": "2026-07-22T01:20:33.819793+00:00"
   },
   {
     "source_id": "nhsa",
     "ok": true,
     "count": 0,
     "message": "ok",
-    "checked_at": "2026-07-21T01:22:14.429170+00:00"
+    "checked_at": "2026-07-22T01:20:35.392721+00:00"
   },
   {
     "source_id": "waic",
     "ok": true,
     "count": 1,
     "message": "ok",
-    "checked_at": "2026-07-21T01:22:16.782739+00:00"
+    "checked_at": "2026-07-22T01:20:38.687455+00:00"
   },
   {
     "source_id": "infoq_conferences",
     "ok": true,
     "count": 0,
     "message": "ok",
-    "checked_at": "2026-07-21T01:22:17.667896+00:00"
+    "checked_at": "2026-07-22T01:20:40.097628+00:00"
   },
   {
     "source_id": "medlive_meetings",
     "ok": false,
     "count": 0,
     "message": "HTTP Error 404: Not Found",
-    "checked_at": "2026-07-21T01:22:18.907826+00:00"
+    "checked_at": "2026-07-22T01:20:42.115488+00:00"
   }
 ]

@@ -1,0 +1,554 @@
+[
+  {
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Thu, 10 Sep 2026 16:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034090+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Now everyone can put data to work",
+    "url": "https://openai.com/index/put-data-to-work",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Thu, 10 Sep 2026 15:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034118+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Introducing ChatGPT for Financial Services",
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034129+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "url": "https://openai.com/index/expanding-ai-access-us-government",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034138+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Introducing the Agents API",
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034145+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034153+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "The AI policy window is open. We need to act.",
+    "url": "https://openai.com/index/ai-policy-window",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Wed, 09 Sep 2026 13:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034161+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Wed, 09 Sep 2026 11:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034174+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Wed, 09 Sep 2026 17:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034183+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 08 Sep 2026 17:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034191+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "The Work Now Within Reach",
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 08 Sep 2026 13:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034200+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Introducing ChatGPT Images 2.5",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 08 Sep 2026 11:30:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034208+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 08 Sep 2026 10:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034215+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Funding grants for new research into AI and teen development",
+    "url": "https://openai.com/index/teen-development-research-grants",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 08 Sep 2026 09:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034222+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 08 Sep 2026 00:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034229+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "1Password increases engineering productivity 21% with Codex",
+    "url": "https://openai.com/index/1password",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 08 Sep 2026 00:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034236+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Supporting independent journalism in Ukraine",
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034243+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "An Alien Mind",
+    "url": "https://openai.com/index/an-alien-mind",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Sun, 06 Sep 2026 09:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034254+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Research acceleration: The view inside OpenAI",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Sun, 06 Sep 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034262+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Thu, 03 Sep 2026 13:15:00 GMT",
+    "discovered_at": "2026-09-11T01:45:58.034269+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized acces",
+    "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:45:58.287595+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Announcements Aug 27, 2026 Previewing the Model Hardware Standard We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification ",
+    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:45:58.287673+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Product Jul 24, 2026 Introducing Claude Opus 5 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements ",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:45:58.287719+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers",
+    "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:45:58.287756+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Aug 25, 2026 Announcements Funding better evaluations of AI’s impact on wellbeing",
+    "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:45:58.287852+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Aug 14, 2026 Announcements How Claude’s text watermark works",
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:45:58.287885+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Aug 7, 2026 Product Improving Fable 5's biology safeguards",
+    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:45:58.287916+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "url": "https://www.anthropic.com/news/tino-cuellar",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:45:58.287950+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Jul 30, 2026 Announcements Investigating three real-world incidents in our cybersecurity evaluations",
+    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:45:58.287981+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Jul 27, 2026 Announcements Our position on open-weights models",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:45:58.288010+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Responsible Scaling Policy",
+    "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:45:58.289009+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "SIMA 2 An agent that plays, reasons, and learns with you",
+    "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+    "source_id": "deepmind_blog",
+    "source_name": "Google DeepMind Blog",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:45:58.732929+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "AlphaEarth Map our planet in unprecedented detail",
+    "url": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/",
+    "source_id": "deepmind_blog",
+    "source_name": "Google DeepMind Blog",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:45:58.733137+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "AlphaEvolve Design advanced algorithms for math and applications in computing",
+    "url": "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+    "source_id": "deepmind_blog",
+    "source_name": "Google DeepMind Blog",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:45:58.733170+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "News Discover our latest AI breakthroughs, projects, and updates",
+    "url": "https://deepmind.google/blog/",
+    "source_id": "deepmind_blog",
+    "source_name": "Google DeepMind Blog",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:45:58.733284+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "沪公网安备31011502008723号",
+    "url": "https://beian.miit.gov.cn",
+    "source_id": "waic",
+    "source_name": "WAIC 世界人工智能大会",
+    "published_at": null,
+    "discovered_at": "2026-09-11T01:46:10.949113+00:00",
+    "category": "conference",
+    "tags": [
+      "conference"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": true,
+    "metadata": {}
+  }
+]

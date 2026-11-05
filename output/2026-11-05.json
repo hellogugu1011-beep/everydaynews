@@ -1,0 +1,622 @@
+[
+  {
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Wed, 04 Nov 2026 14:30:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911250+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Wed, 04 Nov 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911278+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "A thousand fewer paths to root",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Wed, 04 Nov 2026 08:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911289+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Introducing Images 2.6",
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Wed, 04 Nov 2026 00:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911296+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "url": "https://openai.com/index/devrev-enterprise-self-service",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Wed, 04 Nov 2026 00:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911304+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Accelerating engineering for the physical world",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 03 Nov 2026 12:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911312+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "url": "https://openai.com/index/cisco-cyber",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 03 Nov 2026 08:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911320+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "url": "https://openai.com/index/heimstaden",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 03 Nov 2026 08:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911332+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Tue, 03 Nov 2026 00:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911342+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Scaling Git at OpenAI",
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Mon, 02 Nov 2026 15:30:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911350+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Introducing the Grid Protectors Program",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Mon, 02 Nov 2026 15:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911357+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Mon, 02 Nov 2026 18:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911364+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Rewarding defenders with bigger bug bounties",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Mon, 02 Nov 2026 18:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911371+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "LifeVal",
+    "url": "https://openai.com/index/lifeval",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Mon, 02 Nov 2026 09:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911378+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Mon, 02 Nov 2026 00:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911385+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Qodo builds context into AI code review with Codex",
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Mon, 02 Nov 2026 00:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911392+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Making it easier for websites to express AI training preferences",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Fri, 30 Oct 2026 09:30:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911399+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Community safety report and new protections for teens",
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Fri, 30 Oct 2026 09:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911406+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Fair use benefits everyone",
+    "url": "https://openai.com/index/fair-use-benefits-everyone",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Fri, 30 Oct 2026 00:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911413+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "url": "https://openai.com/index/updated-model-spec",
+    "source_id": "openai_news",
+    "source_name": "OpenAI News",
+    "published_at": "Thu, 29 Oct 2026 17:00:00 GMT",
+    "discovered_at": "2026-11-05T03:57:05.911419+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.137138+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increa",
+    "url": "https://www.anthropic.com/news/public-benefit-fund",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.137291+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities ",
+    "url": "https://www.anthropic.com/news/s1-sec",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.137345+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Early progress on accelerating drug development with Claude We're at the start of a major effort to speed up drug development with Claude. Over the past several",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.137396+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Features",
+    "url": "https://www.anthropic.com/news/features",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.137494+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Economics",
+    "url": "https://www.anthropic.com/research/team/economics",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.137548+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "AI for Science expands to foundations and research institutions",
+    "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.137738+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.137937+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Partnerships",
+    "url": "https://www.anthropic.com/news/partnerships",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.137982+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.138137+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Product",
+    "url": "https://www.anthropic.com/news/product",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.138189+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Open call for guest investigators in the life sciences",
+    "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.138268+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+    "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.138371+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "An update on independent evaluators",
+    "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.138568+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Policy",
+    "url": "https://www.anthropic.com/news/policy",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.138614+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Safeguards",
+    "url": "https://www.anthropic.com/news/safeguards",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.138735+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "url": "https://www.anthropic.com/news/singapore-office-opening",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.138809+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Strengthening our defenses against distillation attacks",
+    "url": "https://www.anthropic.com/news/distillation-defenses",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.138912+00:00",
+    "category": "ai",
+    "tags": [
+      "ai"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Introducing the Anthropic Cyber Mission",
+    "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.139015+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "Security",
+    "url": "https://www.anthropic.com/news/security",
+    "source_id": "anthropic_news",
+    "source_name": "Anthropic News",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:06.139059+00:00",
+    "category": "ai",
+    "tags": [],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": false,
+    "metadata": {}
+  },
+  {
+    "title": "沪公网安备31011502008723号",
+    "url": "https://beian.miit.gov.cn",
+    "source_id": "waic",
+    "source_name": "WAIC 世界人工智能大会",
+    "published_at": null,
+    "discovered_at": "2026-11-05T03:57:14.685335+00:00",
+    "category": "conference",
+    "tags": [
+      "conference"
+    ],
+    "summary": "",
+    "confidence": 0.9,
+    "is_conference": true,
+    "metadata": {}
+  }
+]
